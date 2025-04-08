@@ -34,7 +34,7 @@ export const ContactUs = () => {
                 <input type="text" name="username" placeholder="Tu Nombre" className="p-2 border border-[#a3b18a] rounded-md focus:outline-none focus:ring-2 focus:ring-[#588157]" required
                 />
                 <label>Email:</label>
-                <input type="email" name="email" placeholder="Tu Email" className="p-2 border border-[#a3b18a] rounded-md focus:outline-none focus:ring-2 focus:ring-[#588157]" required
+                <input type="email" name="emailUser" placeholder="Tu Email" className="p-2 border border-[#a3b18a] rounded-md focus:outline-none focus:ring-2 focus:ring-[#588157]" required
                 />
                 <label>Mensaje</label>
                 <textarea name="message" placeholder="Tu Mensaje" className="p-2 border border-[#a3b18a] rounded-md h-32 resize-none focus:outline-none focus:ring-2 focus:ring-[#588157]" required></textarea>
